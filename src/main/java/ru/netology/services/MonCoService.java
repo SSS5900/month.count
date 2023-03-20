@@ -1,3 +1,5 @@
+package ru.netology.services;
+
 public class MonCoService {
 
     public long calcMonth(int income, int expense, int threshold) {
